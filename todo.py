@@ -1,4 +1,4 @@
-import flet
+import flet     # ---- pip install flet in your root directory ---- #
 from flet import (
     Checkbox,
     Column,
